@@ -1,14 +1,17 @@
-# A simple counter-App using [React.js](https://reactjs.org)
+# React Practice Interview Question
 
-> **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
+## MVP
 
-**This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child etc. .**
+![screenshot](./public/mvp.png)
 
-## Live URL :-
+### AC (Acceptance Criteria)
+- Displays list of items with the current amount.
+- When a user presses the plus and minus buttons, the item is incremented or decremented.
+- At the top of the screen, display the number of unique items currently in the user's cart. 
+- Clicking the reset button sets all the items to zero. 
+- Match the styles of the wireframe.
+- Ensure best coding practices.
 
-> [Counter App](https://obscure-waters-60500.herokuapp.com)
-
-**OR your can do the following to run in your local machine**
 
 ## Scripts
 
