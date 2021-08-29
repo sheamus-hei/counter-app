@@ -32,11 +32,6 @@ export default function App () {
     setItems(updatedItems);
   };
 
-  let stuff = Object.entries(items).filter(entry => {
-    return entry[1] > 0;
-  }).length
-  console.log(stuff)
-
   return (
     <div>
       <NavBar

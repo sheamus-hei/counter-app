@@ -18,9 +18,6 @@ export default function Item({
     flexWrap: "wrap",
     textTransform: "capitalize"
   }
-  const nameStyle = {
-    display: ""
-  }
   return (
       <li style={cardStyle}>
           <span className="badge m-2 badge-" style={{ fontSize: 24 }}>
